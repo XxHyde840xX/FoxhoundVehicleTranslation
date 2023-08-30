@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Foxhound Assault Vehicle</name>
+    <author>Swatyu421/XxHyde840xX</author>
+    <url></url>
+    <supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+    <packageId>840.FoxhoundTruck</packageId>
+	<modDependencies>
+		<li>
+			<packageId>SmashPhil.VehicleFramework</packageId>
+			<displayName>Vehicle Framework</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/3014915404</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+  <loadBefore />   
+  <loadAfter />	
+  	<description>
+Added a Police Standard Lightly Armored Assault Vehicle.
+Translated by XxHyde840xX.
+</description>
+</ModMetaData>
